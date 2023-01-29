@@ -1,0 +1,8 @@
+D:\ソースコード\MaxiEmu\MaxiEmu\bin\Release\MaxiEmu.exe.config
+D:\ソースコード\MaxiEmu\MaxiEmu\bin\Release\MaxiEmu.exe
+D:\ソースコード\MaxiEmu\MaxiEmu\bin\Release\MaxiEmu.pdb
+D:\ソースコード\MaxiEmu\MaxiEmu\obj\Release\MaxiEmu.csproj.AssemblyReference.cache
+D:\ソースコード\MaxiEmu\MaxiEmu\obj\Release\MaxiEmu.csproj.SuggestedBindingRedirects.cache
+D:\ソースコード\MaxiEmu\MaxiEmu\obj\Release\MaxiEmu.csproj.CoreCompileInputs.cache
+D:\ソースコード\MaxiEmu\MaxiEmu\obj\Release\MaxiEmu.exe
+D:\ソースコード\MaxiEmu\MaxiEmu\obj\Release\MaxiEmu.pdb
